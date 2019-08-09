@@ -1,7 +1,9 @@
-# IEOR242_deep_colorization
-IEOR242 project at UC Berkeley: automated colorization of gray scale images using deep convolutional neural nets.
+# Hallucinating Colors
+Hallucinating Colors is an alias for the IEOR242 project at UC Berkeley accomplished under Prof. Paul Griggas for the Spring 2019 term: automated colorization of gray scale images using deep convolutional neural nets.
 
 This work is strongly inspired from the paper Colorful Image Colorization (http://richzhang.github.io/colorization/)
+
+## Collaborators: Louis Tilloy, Georgios Prelorentzos, Chao Zhang, Parth Sanghvi, Emma Leiner 
 
 ## How to use the code:
 ### 1) Setup
